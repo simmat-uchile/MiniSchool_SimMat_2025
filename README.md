@@ -38,6 +38,7 @@
 - Introducción a VASP y Quantum Espresso.
 - Estudio de fonones y acoplamiento electrón-fonón con EPW.
 - Estudio de sistemas magnéticos desde cálculos ab-initio.
+- Reactividad en estado sólido. 
 
 ---
 
@@ -47,7 +48,8 @@ Los talleres y sesiones prácticas serán guiados por jóvenes investigadores y 
 
 - **Nicolás F. Barrera**        — *Laboratoire de Chimie Théorique, Sorbonne Université*. 
 - **Javiera Cabezas-Escares**   — *Departamento de Física, Universidad de Chile*.
-- **Andrea Echeverri**          — *Departamento de Física, Universidad de Chile*.  
+- **Andrea Echeverri**          — *Departamento de Física, Universidad de Chile*.
+- **Tatiana Gómez**             — *Universidad Autónoma de Chile*.
 - **Andrea León**               — *Departamento de Física, Universidad de Chile*.
 - **Leopoldo Mejía**            — *Departamento de Física, Universidad Andrés Bello*.
 
