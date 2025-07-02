@@ -29,12 +29,15 @@ La *Mini School: SimMat 2025* es la primera versión de una instancia formativa 
 ---
 
 ## 👩‍🏫 Contenido y Talleres
-
-- Introducción a la teoría del funcional de la densidad (DFT)
-- Química cuántica aplicada con Gaussian y ORCA
-- Cálculos periódicos con Quantum ESPRESSO y VASP
-- Fonones y acoplamiento electrón-fonón con EPW
-- Visualización y análisis de propiedades electrónicas y estructurales
+- Introducción a lo métodos de función de onda (HF y Post-HF methods).
+- Introducción a la teoría del funcional de la densidad (DFT).
+- Introducción al uso de Gaussian y ORCA.
+- Estudio y caracterización de interacciones no-covalentes.
+- Introducción a la teoría del funcional de la densidad dependiente del tiempo (TDDFT).
+- DFT para sistemas periódicas.
+- Introducción a VASP y Quantum Espresso.
+- Estudio de fonones y acoplamiento electrón-fonón con EPW.
+- Estudio de sistemas magnéticos desde cálculos ab-initio.
 
 ---
 
