@@ -46,7 +46,8 @@
 Los talleres y sesiones prácticas serán guiados por jóvenes investigadores y académicos con experiencia en simulación computacional de materiales y química cuántica:
 
 - **Nicolás F. Barrera**        — *Laboratoire de Chimie Théorique, Sorbonne Université*. 
-- **Javiera Cabezas-Escares**   — *Departamento de Física, Universidad de Chile*.  
+- **Javiera Cabezas-Escares**   — *Departamento de Física, Universidad de Chile*.
+- **Otoniel Denis**             — *Departamento de Física, Universidad de Chile*.
 - **Andrea Echeverri**          — *Departamento de Física, Universidad de Chile*.  
 - **Andrea León**               — *Departamento de Física, Universidad de Chile*.
 - **Leopoldo Mejía**            — *Departamento de Física, Universidad Andrés Bello*.
