@@ -19,9 +19,9 @@ La *Mini School: SimMat 2025* es la primera versión de una instancia formativa 
 
 ---
 
-## 🗓️ Programa
+<!-- ## 🗓️ Programa -->
 
-![Programa SimMat 2025](./images/schedule.png)
+<!-- ![Programa SimMat 2025](./images/schedule.png) -->
 
 <!-- Alternativamente puedes usar: -->
 <!-- ![Afiche SimMat 2025](./images/poster.png) -->
