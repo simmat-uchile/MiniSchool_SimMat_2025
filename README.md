@@ -41,7 +41,7 @@ La *Mini School: SimMat 2025* es la primera versión de una instancia formativa 
 
 ---
 
-### 👨‍🏫 Tutores
+### 👨‍🏫👩‍🏫 Tutores
 
 Los talleres y sesiones prácticas serán guiados por jóvenes investigadores con experiencia en simulación computacional de materiales y química cuántica:
 
@@ -50,6 +50,8 @@ Los talleres y sesiones prácticas serán guiados por jóvenes investigadores co
 - **Andrea Echeverri** — *Departamento de Física, Universidad de Chile*  
 - **Andrea León** — *Departamento de Física, Universidad de Chile*  
 - **Leopoldo Mejía** — *Departamento de Física, Universidad Andrés Bello*
+
+---
 
 ## 📬 Contacto
 
