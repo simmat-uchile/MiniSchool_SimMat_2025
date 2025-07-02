@@ -8,7 +8,7 @@
 
 ## 🧭 Objetivo
 
-La *Mini School: SimMat 2025* es la primera versión de una instancia formativa y colaborativa dirigida a estudiantes de pregrado avanzado, magíster y doctorado e investigadores jóvenes interesados en herramientas de simulación computacional para el estudio de materiales y sistemas moleculares.
+*Mini School: SimMat 2025* es la primera versión de una instancia formativa y colaborativa dirigida a estudiantes de pregrado avanzado, magíster y doctorado e investigadores jóvenes interesados en herramientas de simulación computacional para el estudio de materiales y sistemas moleculares.
 
 ---
 
