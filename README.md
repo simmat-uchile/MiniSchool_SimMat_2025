@@ -29,7 +29,7 @@ La *Mini School: SimMat 2025* es la primera versión de una instancia formativa 
 ---
 
 ## 👩‍🏫 Contenido y Talleres
-- Introducción a lo métodos de función de onda (HF y Post-HF methods).
+- Introducción a los métodos de función de onda (HF y Post-HF methods).
 - Introducción a la teoría del funcional de la densidad (DFT).
 - Introducción al uso de Gaussian y ORCA.
 - Estudio y caracterización de interacciones no-covalentes.
