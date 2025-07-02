@@ -41,6 +41,16 @@ La *Mini School: SimMat 2025* es la primera versión de una instancia formativa 
 
 ---
 
+### 👨‍🏫 Tutores
+
+Los talleres y sesiones prácticas serán guiados por jóvenes investigadores con experiencia en simulación computacional de materiales y química cuántica:
+
+- **Nicolás F. Barrera** — *Laboratoire de Chimie Théorique, Sorbonne Université*  
+- **Javiera Cabezas** — *Departamento de Física, Universidad de Chile*  
+- **Andrea Echeverri** — *Departamento de Física, Universidad de Chile*  
+- **Andrea León** — *Departamento de Física, Universidad de Chile*  
+- **Leopoldo Mejía** — *Departamento de Física, Universidad Andrés Bello*
+
 ## 📬 Contacto
 
 Para dudas o consultas, escribe a: **simmat.uchile@gmail.com**
