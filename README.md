@@ -34,7 +34,7 @@ La *Mini School: SimMat 2025* es la primera versión de una instancia formativa 
 - Introducción al uso de Gaussian y ORCA.
 - Estudio y caracterización de interacciones no-covalentes.
 - Introducción a la teoría del funcional de la densidad dependiente del tiempo (TDDFT).
-- DFT para sistemas periódicas.
+- DFT para sistemas periódicos.
 - Introducción a VASP y Quantum Espresso.
 - Estudio de fonones y acoplamiento electrón-fonón con EPW.
 - Estudio de sistemas magnéticos desde cálculos ab-initio.
