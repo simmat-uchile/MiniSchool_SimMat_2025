@@ -64,6 +64,6 @@ Dra. Andrea Echeverri C.
 Dra. (c) Javiera Cabezas-Escares.
 Dr. (c) Nicolás F. Barrera.
 
-- TheoChemPhys Group — Universidad de Chile. 
+- TheoChemPhys Group - Universidad de Chile. 
 - Laboratoire de Chimie Théorique - Sorbonne Université.
 ---
