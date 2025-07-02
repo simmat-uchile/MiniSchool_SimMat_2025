@@ -1,7 +1,7 @@
 # 🧪 Mini School: SimMat 2025
 
 **Simulación de Materiales y Química Cuántica**  
-📅 **4 – 7 de agosto de 2025**  
+📅 **4 – 8 de agosto de 2025**  
 📍 **Sala Irma Crivelli, Departamento de Química, Facultad de Ciencias, Universidad de Chile**
 
 ---
