@@ -64,6 +64,7 @@ Para dudas o consultas, escribe a: **simmat.uchile@gmail.com**
 ## 🧑‍🤝‍🧑 Organizan
 Dra. Andrea Echeverri C. 
 Dra. (c) Javiera Cabezas-Escares.
+Dra. Andrea León.
 Dr. (c) Nicolás F. Barrera.
 
 - TheoChemPhys Group - Universidad de Chile. 
