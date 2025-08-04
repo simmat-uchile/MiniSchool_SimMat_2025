@@ -1,6 +1,6 @@
 %chk=He_sto3g.chk
 %nproc=2
-%mem=2GB
+%mem=1500MB
 #p rhf/gen 
 
 He
