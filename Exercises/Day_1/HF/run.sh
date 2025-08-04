@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=G09
-#SBATCH --partition=labs
+#SBATCH --partition=general
 #SBATCH -c 2 #numero de CPUs
 #SBATCH --output=example.out
 #SBATCH --error=example.err
@@ -11,7 +11,7 @@ ml intel/2019b
 ml g09/D01
 
 
-#g09 He.gjf > He.log
+g09 He.gjf > He.log #linea descomentada
 
 formchk He_sto3g.chk He_sto3g.fchk
 #formchk He_sto6g.chk He_sto6g.fchk
