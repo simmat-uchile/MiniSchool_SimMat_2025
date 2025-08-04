@@ -1,0 +1,65 @@
+%chk=Be_SVWN.chk
+%nproc=2
+%mem=2GB
+#p rSVWN/aug-cc-pVDZ 
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
+--Link1--
+%chk=Be_pbe.chk
+%nproc=2
+%mem=2GB
+#p rPBEPBE/aug-cc-pVDZ 
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
+--Link1--
+%chk=Be_pbe0.chk
+%nproc=2
+%mem=2GB
+#p PBE1PBE/aug-cc-pVDZ
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
+--Link1--
+%chk=Be_m062x.chk
+%nproc=2
+%mem=2GB
+#p rM062X/aug-cc-pVDZ
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
+--Link1--
+%chk=Be_m11.chk
+%nproc=2
+%mem=2GB
+#p rM11/aug-cc-pVDZ
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
+--Link1--
+%chk=Be_hse06.chk
+%nproc=2
+%mem=2GB
+#p rHSEH1PBE/aug-cc-pVDZ
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
