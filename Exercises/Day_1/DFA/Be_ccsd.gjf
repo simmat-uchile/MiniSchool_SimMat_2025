@@ -1,0 +1,10 @@
+%chk=Be_ccsd.chk
+%nproc=2
+%mem=2GB
+#p rCCSD(Full)/aug-cc-pVDZ 
+
+Be
+
+0 1
+Be  0.00000000 0.00000000 0.00000000
+
