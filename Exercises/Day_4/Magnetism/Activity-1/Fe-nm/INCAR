@@ -1,0 +1,18 @@
+ISTART =  1
+ICHARG =  1      ! doesn't read the WAVECAR file
+ENCUT = 450     ! energy cutoff for the plane-wave basis in eV
+ISMEAR = 0      ! method for the partial occupancies on each orbital (=0 Gaussian smearing) 
+SIGMA = 0.05    ! width of the smearing in eV
+EDIFF = 1e-7    ! global break condition for the electronic SC-loop in eV
+
+LORBIT = 11
+LREAL = False 
+LWAVE = False 
+#NPAR = 2
+
+#Parametros Para Relax
+ NSW = 30        ! max number of ionic steps
+ IBRION = 2      ! ionic relaxation  (conjugate gradient algorithm)
+ ISIF = 3        ! relajar todo
+ EDIFFG = -0.02  ! break condition for the ionic relaxation loop
+ NELM = 60       ! max number of electronic SC steps
