@@ -1,0 +1,11 @@
+&INPUTPP
+ prefix = 'Nb',
+ outdir = './',
+ plot_num = 8,
+ filplot = 'Nb.ELF.dat'
+/
+&PLOT
+ iflag = 3,
+ output_format = 6,
+ fileout = 'Nb.ELF.cube'
+/

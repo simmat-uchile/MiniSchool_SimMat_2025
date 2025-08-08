@@ -1,0 +1,8 @@
+&projwfc
+    outdir='./',
+    prefix='Nb',
+    ngauss=1, degauss=0.005
+    DeltaE=0.01
+    kresolveddos=.true.
+    filproj='Nb.proj.k'
+/

@@ -1,0 +1,40 @@
+&CONTROL
+ calculation  = 'vc-relax',
+ prefix       = 'Nb',
+ pseudo_dir   = './',
+ outdir       = './',
+ forc_conv_thr = 1.0d-5,
+ etot_conv_thr = 1.0d-6
+/
+&SYSTEM    
+ ibrav        = 0
+ nat          = 1,
+ ntyp         = 1,
+ ecutwfc      = 70
+ smearing     = 'mp'
+ occupations  = 'smearing'
+ degauss      = 0.01
+/
+&ELECTRONS
+ conv_thr         = 1.0d-12
+ diagonalization  = 'cg'
+ electron_maxstep = 200
+/
+&IONS
+/
+&CELL
+/
+ATOMIC_SPECIES
+ Nb 92.90638 Nb.upf 
+
+CELL_PARAMETERS (angstrom)
+   -1.6607106993227141   1.6607106993227141    1.6607106993227141
+   1.6607106993227141   -1.6607106993227141    1.6607106993227141
+   1.6607106993227141    1.6607106993227141   -1.6607106993227141
+
+ATOMIC_POSITIONS (crystal)
+Nb     0.0000000000000000  0.0000000000000000  0.0000000000000000
+
+K_POINTS AUTOMATIC
+  11 11 11 0 0 0
+
