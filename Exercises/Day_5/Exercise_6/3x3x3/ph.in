@@ -1,0 +1,12 @@
+&inputph
+ prefix   = 'Nb',
+ outdir   = './',
+ fildyn   = 'Nb.dyn.xml',
+ fildvscf = 'dvscf',
+ ldisp    = .true.,
+ tr2_ph   = 1.0d-12
+ nq1 = 3,
+ nq2 = 3,
+ nq3 = 3,
+/
+
