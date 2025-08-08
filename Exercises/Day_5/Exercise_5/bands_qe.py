@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-run  pip install --upgrade pyprocar
+#run  pip install --upgrade pyprocar
 import pyprocar
 import numpy as np
 import matplotlib.pyplot as plt
